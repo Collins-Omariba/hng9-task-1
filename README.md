@@ -30,4 +30,4 @@ and go to the url path <br>
 http://127.0.0.1:8000/api/user_details
 
 ### live api endpoint 
-http://collinsoma.pythonanywhere.com/api/user_details?format=api
+http://collinsoma.pythonanywhere.com/api/user_details
